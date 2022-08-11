@@ -1,6 +1,3 @@
-# test Repo
+# Kadirbekov Zanggar
 
-New text
-Some more text
-fix2 changes
-some very grear text
+Мужчина, 21 год, родился 18 октября 2000
